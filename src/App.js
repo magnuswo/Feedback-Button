@@ -120,7 +120,6 @@ const addTask = async (task) => {
     )} 
     />
      <Route path='/about' component={About} />
-     <Route path='/stars' component={Stars} />
      <Footer />
     </div>
     </Router>
