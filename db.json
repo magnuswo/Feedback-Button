@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Pfizer Vaccine",
+      "day": "July 15th at 12:13",
+      "reminder": false
+    },
+    {
+      "text": "ny greie ",
+      "day": "kl 12",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
